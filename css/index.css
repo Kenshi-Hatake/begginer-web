@@ -1,12 +1,12 @@
 body {
-    background-image: url('../images/background.jpeg');
+    background-image: url('../images/index_image/background.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
 
-.text { 
+main { 
     background-color: rgba(52, 45, 45, 0.9);
     position: absolute;
     top: 50%;
@@ -15,9 +15,10 @@ body {
     padding-right: 5px;
     text-transform: uppercase;
     border: 2px solid black;
+    box-shadow: 5px 5px 5px 5px black;
 }
 
-.text p {
+main p {
     text-align: center;
     animation: title-color 2s ease 0s infinite alternate none;
 }
@@ -31,13 +32,13 @@ abbr {
     text-decoration: none;
 }
 
-.text ul li {
+main ul li {
     text-align: center;
     list-style: none;
     margin-right: 30px;
 }
 
-.text ul li a { 
+main ul li a { 
     color: aliceblue;
     text-decoration: none;
 }

@@ -1,0 +1,74 @@
+/* XBOX */
+.xbox .xbox-image{
+    margin-left: 40%;
+}
+.xbox .xbox-image img {
+    width: 340px;
+    height: 340px;
+}
+
+.xbox .xbox-text blockquote {
+    text-align: center;
+}
+
+/* XBOX 360 */
+.xbox-360 .xbox-360-image{
+    margin-left: 40%;
+}
+.xbox-360 .xbox-360-image img {
+    width: 340px;
+    height: 340px;
+}
+
+.xbox-360 .xbox-360-text blockquote {
+    text-align: center;
+}
+
+/* XBOX ONE */
+.xbox-one .xbox-one-image{
+    margin-left: 40%;
+}
+.xbox-one .xbox-one-image img {
+    width: 340px;
+    height: 340px;
+}
+
+.xbox-one .xbox-one-text blockquote {
+    text-align: center;
+}
+
+/* XBOX serie X */
+.xbox-serie-x .xbox-serie-x-image{
+    margin-left: 40%;
+}
+.xbox-serie-x .xbox-serie-x-image img {
+    width: 340px;
+    height: 340px;
+}
+
+.xbox-serie-x .xbox-serie-x-text blockquote {
+    text-align: center;
+}
+
+/* XBOX serie S */
+.xbox-serie-s .xbox-serie-s-image{
+    margin-left: 40%;
+}
+.xbox-serie-s .xbox-serie-s-image img {
+    width: 340px;
+    height: 340px;
+}
+
+.xbox-serie-s .xbox-serie-s-text blockquote {
+    text-align: center;
+}
+
+footer #lien-site {
+    
+    text-decoration: none;
+    margin-left: 28%;
+}
+
+footer #copyright {
+    text-align: center;
+}

@@ -1,0 +1,40 @@
+body {
+    background-image: url('../images/about_images/background.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    margin-left: 40%;
+    display: inline;
+}
+
+h2 {
+    margin-left: 42%;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+h4 {
+    margin-top: 5%;
+    text-align: center;
+}
+
+iframe {
+    margin-left: 35%;
+    margin-top: 5%;
+}
+
+footer #lien-site {
+    font-size: 40px;
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 45%;
+}
+
+footer #copyright {
+    font-size: 40px;
+    color: #ffffff;
+    text-align: center;
+}

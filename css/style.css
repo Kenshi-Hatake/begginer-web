@@ -1,4 +1,4 @@
-.header ul {
+header ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -6,11 +6,11 @@
   background-color: #333;
 }
 
-.header ul li {
+header ul li {
   float: left;
 }
 
-.header ul li a {
+header ul li a {
   display: block;
   color: white;
   text-align: center;
@@ -25,10 +25,10 @@
   background-color: #111;
 }
 
-.active-ps4 {
+.active-ps {
   background-color: #333;
 }
-.active-ps4:hover {
+.active-ps:hover {
   background-color: #003791;
 }
 

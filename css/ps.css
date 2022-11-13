@@ -1,0 +1,74 @@
+/* PS1 */
+.ps1 .ps1_image{
+    margin-left: 40%;
+}
+.ps1 .ps1_image img {
+    width: 340px;
+    height: 340px;
+}
+
+.ps1 .ps2_text blockquote {
+    text-align: center;
+}
+
+/* PS2 */
+.ps2 .ps2_image{
+    margin-left: 40%;
+}
+.ps2 .ps2_image img {
+    width: 340px;
+    height: 340px;
+}
+
+.ps2 .ps2_text blockquote {
+    text-align: center;
+}
+
+/* PS3 */
+.ps3 .ps3_image{
+    margin-left: 40%;
+}
+.ps3 .ps3_image img {
+    width: 340px;
+    height: 340px;
+}
+
+.ps3 .ps3_text blockquote {
+    text-align: center;
+}
+
+/* PS4 */
+.ps4 .ps4_image{
+    margin-left: 40%;
+}
+.ps4 .ps4_image img {
+    width: 340px;
+    height: 340px;
+}
+
+.ps4 .ps4_text blockquote {
+    text-align: center;
+}
+
+/* PS5 */
+.ps5 .ps5_image{
+    margin-left: 40%;
+}
+.ps5 .ps5_image img {
+    width: 340px;
+    height: 340px;
+}
+
+.ps5 .ps5_text blockquote {
+    text-align: center;
+}
+
+footer #lien-site {
+    
+    text-decoration: none;
+    margin-left: 50%;
+}
+
+footer #copyright {
+    text-align: center;
+}
